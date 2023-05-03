@@ -1,0 +1,11 @@
+Model Information:
+* title:	KS001_Aqua_UGC
+* source:	https://sketchfab.com/3d-models/ks001-aqua-ugc-f796be864a5b4147a4e62b5d7fa760a1
+* author:	uknown (https://sketchfab.com/uknown_)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "KS001_Aqua_UGC" (https://sketchfab.com/3d-models/ks001-aqua-ugc-f796be864a5b4147a4e62b5d7fa760a1) by uknown (https://sketchfab.com/uknown_) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
