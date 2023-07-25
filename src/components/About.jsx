@@ -37,7 +37,7 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn("","",0.1,1)} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui doloremque iste dignissimos eveniet ad doloribus, reprehenderit maiores impedit quidem ut debitis incidunt architecto fuga ducimus accusamus omnis saepe dolorem placeat. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt repellendus explicabo delectus modi similique sunt quidem inventore quaerat, libero porro totam ipsa necessitatibus asperiores, excepturi animi laudantium dolore possimus laboriosam!
+        Murid SMKN 1 Ciomas yang berminat dan bakat dalam bidang teknologi dan pemrograman, saya sangat tertarik untuk menjadi seorang SOFTWARE ENGINEERING. Berpengalaman dalam mengerjakan project project sekolah untuk membuat website dan sistem informasi sekolah, hal yang sangat saya sukai adalah ketika harus melakukan pemikiran yang secara logis dan juga suka problem solving.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
