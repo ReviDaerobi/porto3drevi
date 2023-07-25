@@ -103,10 +103,8 @@ import {
       iconBg: "#383E56",
       date: "July 2020 - Now",
       points: [
-        "Malas Mikir Point :/",
-        "Malas Mikir Point :/",
-        "Malas Mikir Point :/",
-        "Malas Mikir Point :/",
+        "Portofolio Website REACT",
+        "MERN STACK Website ( To Do List ) ",
       ],
     },
     {
@@ -116,7 +114,7 @@ import {
       iconBg: "#E6DEDD",
       date: "August 2022 - Now",
       points: [
-        "Malas Mikir Point :/",
+        "E-Commerce Laravel",
         "Malas Mikir Point :/",
         "Malas Mikir Point :/",
         "Malas Mikir Point :/",
