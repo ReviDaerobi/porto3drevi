@@ -59,7 +59,7 @@ const Works = () => {
           variants={fadeIn("","",0.1,1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt quidem fugit molestiae voluptates ullam facere doloremque sapiente, a quaerat laborum enim inventore dolorum ex numquam quis dolore saepe minima? Natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Et veritatis rem deserunt sed beatae doloribus quo voluptatibus placeat optio modi eligendi laboriosam tempore inventore ipsa, magni sapiente dolore, qui nemo? Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque dicta suscipit et dolore? Aliquam ut autem quos, maiores praesentium voluptate dignissimos nihil quod aspernatur consequuntur modi doloribus pariatur itaque error.
+          Project saya yang sudah saya kerjakan di kelas XI sampai kelas XII, project yang saya kerjakan kebanyakan project sekolah yang diberikan oleh guru untuk di kerjakan. Adapun project freelance dan project team dari sekolah 
         </motion.p>
       </div>
 
