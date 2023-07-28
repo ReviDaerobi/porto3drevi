@@ -114,10 +114,8 @@ import {
       iconBg: "#E6DEDD",
       date: "August 2022 - Now",
       points: [
-        "E-Commerce Laravel",
-        "Malas Mikir Point :/",
-        "Malas Mikir Point :/",
-        "Malas Mikir Point :/",
+        "E-Commerce",
+        "Sistem Informasi Tamu",
       ],
     },
     {
@@ -127,10 +125,8 @@ import {
       iconBg: "#383E56",
       date: "September 2022 - Now",
       points: [
-        "Malas Mikir Point :/",
-        "Malas Mikir Point :/",
-        "Malas Mikir Point :/",
-        "Malas Mikir Point :/",
+        "KasKu ( Sistem Buku Kas Mobile )",
+        "Firebase,Firestore,Firebase AUTH Dan Google Console API ( Mobile Phone Verification )",
       ],
     },
     {
@@ -140,10 +136,7 @@ import {
       iconBg: "#E6DEDD",
       date: "September 2022 - Now",
       points: [
-        "Malas Mikir Point :/",
-        "Malas Mikir Point :/",
-        "Malas Mikir Point :/",
-        "Malas Mikir Point :/",
+        "Flutter APP",
       ],
     },
     {
@@ -153,10 +146,7 @@ import {
       iconBg: "#383E56",
       date: "March 2023 - Now",
       points: [
-        "Malas Mikir Point :/",
-        "Malas Mikir Point :/",
-        "Malas Mikir Point :/",
-        "Malas Mikir Point :/",
+        "Portofolio Website",
       ],
     },
   ];
