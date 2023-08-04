@@ -172,9 +172,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "KasKU",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Aplikasi Buku Kas Yang Bisa Digunakan Untuk Menyimpan Catatan Keuangan Pengeluaran Dan Pendapatan",
       tags: [
         {
           name: "react",
@@ -190,7 +190,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://drive.google.com/drive/folders/1ZY_Iuvu8motgDyXkG4eEgYzwMnYbRVzn?usp=drive_link",
     },
     {
       name: "Job IT",
