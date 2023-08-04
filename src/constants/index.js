@@ -177,15 +177,15 @@ import {
         "Aplikasi Buku Kas Yang Bisa Digunakan Untuk Menyimpan Catatan Keuangan Pengeluaran Dan Pendapatan",
       tags: [
         {
-          name: "react",
+          name: "Flutter",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Google Console API",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Firebase",
           color: "pink-text-gradient",
         },
       ],
