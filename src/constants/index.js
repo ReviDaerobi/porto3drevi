@@ -193,20 +193,20 @@ import {
       source_code_link: "https://drive.google.com/drive/folders/1ZY_Iuvu8motgDyXkG4eEgYzwMnYbRVzn?usp=drive_link",
     },
     {
-      name: "Job IT",
+      name: "Message From Website",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Sebuah Backend Yang Digunakan Untuk Mengirim Pesan Dari Website Melalui API Menggunakan Whatsapp,Telegram Dan Email",
       tags: [
         {
-          name: "react",
+          name: "PHP",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Html",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "API",
           color: "pink-text-gradient",
         },
       ],
@@ -214,20 +214,20 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Ad Server",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Aplikasi Untuk Pemasangan Iklan Dan Bisa Di Iklan Kan Di Website/Aplikasi Mana Pun Dan Kapan Pun",
       tags: [
         {
-          name: "nextjs",
+          name: "Bootstrap",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "Mysql",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Laravel",
           color: "pink-text-gradient",
         },
       ],
